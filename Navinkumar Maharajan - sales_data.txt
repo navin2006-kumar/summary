@@ -1,0 +1,4 @@
+{'item': 'Laptop', 'quantity': 5, 'price_per_unit': 900, 'discount': 0.10, 'tax_rate': 0.08}
+{'item': 'Phone', 'quantity': 10, 'price_per_unit': 500, 'discount': 0.05, 'tax_rate': 0.08}
+{'item': 'Tablet', 'quantity': 7, 'price_per_unit': 300, 'discount': 0.15, 'tax_rate': 0.08}
+{'item': 'Monitor', 'quantity': 3, 'price_per_unit': 200, 'discount': 0.20, 'tax_rate': 0.08}
